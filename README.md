@@ -20,7 +20,7 @@ I build tools for **platform analytics**, **recommendation workflows**, **AI eva
 
 Most of my professional work is private or confidential, so I use this GitHub as a little workshop for selected public projects, experiments, and technical notes.
 
-> 🌿 I like building systems that are useful, measurable, well-documented, and a little bit cozy.
+🌿 I like building systems that are useful, measurable, well-documented, and a little bit cozy.
 
 ---
 
